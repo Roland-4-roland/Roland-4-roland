@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roland_zo
-- 👀 junior developer
-- 🌱 currently learning web development js
+- 👀 developer
+- 
 - 💞️ I’m looking to collaborate on .. anything..code, love, life😎
 - 📫 How to reach me ... mamarotea@gmail.com
 
